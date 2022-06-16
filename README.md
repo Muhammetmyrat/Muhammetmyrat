@@ -19,8 +19,6 @@ Skills: VUE JS / HTML / CSS / JS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)  
 
-![GitHub metrics](https://metrics.lecoq.io/Muhammetmyrat)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhammetmyrat)  
 
 ![Profile views](https://gpvc.arturio.dev/Muhammetmyrat)
