@@ -15,10 +15,10 @@ Skills: VUE JS / HTML / CSS / JS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Muhammetmyrat)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammetmyrat)](https://github.com/anuraghazra/github-readme-stats?bg_color=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammetmyrat)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhammetmyrat)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhammetmyrat&bg_color=red)  
 
 ![Profile views](https://gpvc.arturio.dev/Muhammetmyrat)
