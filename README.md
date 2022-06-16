@@ -17,7 +17,7 @@ Skills: VUE JS / HTML / CSS / JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammetmyrat)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammetmyrat&show_icons=true&count_private=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Muhammetmyrat)  
 
