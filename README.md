@@ -1,6 +1,6 @@
 I'm Muhammetmyrat from Turkmenistan, and I do content on Front-End Developer and Development. I really enjoy learning languages and frameworks like Vue and React! I also enjoy wireframing, ui and ux in general.
 
-Skills: HTML / CSS / JS / VUE JS / REACT JS / REACT NATIVE
+Skills: HTML / CSS / JS / VUE JS / REACT JS
 
 - 🔭 I’m currently working on Salam HJ 
 - 🌱 I’m currently learning ... 
