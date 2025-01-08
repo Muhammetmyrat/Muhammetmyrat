@@ -1,5 +1,6 @@
 I'm Muhammetmyrat from Turkmenistan, and I do content on Front-End Developer and Development. I really enjoy learning languages and frameworks like Vue and React! I also enjoy wireframing, ui and ux in general.
 
+
 ### Skills
 - HTML / CSS / JavaScript
 - Vue.js
@@ -7,11 +8,18 @@ I'm Muhammetmyrat from Turkmenistan, and I do content on Front-End Developer and
 - UI/UX Design
 - Wireframing
 
-- 🔭 I’m currently working on Salam HJ 
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate ...
-- 💬 Ask me about ... 
-- ⚡️ Fun fact: Learn, Develop and remember, Live and Work in your free time!
+
+### Current Projects
+- 🔭 I’m currently working on Salam HJ, enhancing its front-end with modern web technologies.
+### Learning & Collaboration
+- 🌱 I’m currently deepening my knowledge in advanced Vue and React patterns.
+- 👯 I’m looking to collaborate on innovative front-end projects and contribute to open-source communities.
+### Let's Connect
+- 💬 Ask me about front-end development, Vue.js, React.js, or any UI/UX design queries.
+- 📫 Feel free to reach out via [GitHub](https://github.com/Muhammetmyrat).
+### Fun Fact
+- ⚡️ Learn, develop, and remember. Live and work during your free time!
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Muhammetmyrat)](https://github.com/ryo-ma/github-profile-trophy)
 
